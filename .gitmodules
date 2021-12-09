@@ -1,0 +1,6 @@
+[submodule "cJSON"]
+	path = cJSON
+	url = https://github.com/yugengde/cJSON.git
+[submodule "utils_cpp"]
+	path = utils_cpp
+	url = https://github.com/yugengde/utils_cpp.git
